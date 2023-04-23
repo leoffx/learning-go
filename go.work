@@ -1,0 +1,6 @@
+go 1.20
+
+use (
+	./01-tic-tac-toe
+	./02-data-vis
+)
